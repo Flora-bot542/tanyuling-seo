@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://你的域名/sitemap.xml
+Sitemap: https://flora-bot542.github.io/tanyuling-seo/sitemap.xml
