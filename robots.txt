@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://flora-bot542.github.io/tanyuling-seo/sitemap.xml
+Sitemap: https://www.torino-seo.abrdns/sitemap.xml
