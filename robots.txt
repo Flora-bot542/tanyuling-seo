@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.torino-seo.abrdns/sitemap.xml
+Sitemap: https://www.torino-seo.abrdns.com/sitemap.xml
